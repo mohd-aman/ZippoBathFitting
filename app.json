@@ -1,0 +1,8 @@
+{
+  "name": "Node.js getting started",
+  "description": "Bath Fitting manufacturer Web",
+  "repository": "https://github.com/heroku/ZippoBathFitting",
+  "logo": "https://node-js-sample.herokuapp.com/node.svg",
+  "keywords": ["node", "express", "static"],
+  "image": "heroku/nodejs"
+  }
