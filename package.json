@@ -1,8 +1,8 @@
 {
   "name": "ZippoBath-Web",
   "version": "1.0.0",
-  "engines" : { "node" : "8.10.0"
-              "npm": "3.5.2"},
+  "engines" : { "node" : "8.10.0",
+                "npm": "3.5.2"},
   "description": "Everyday Essay App",
   "main": "app.js",
   "scripts": {
