@@ -6,7 +6,7 @@
     "npm": "3.5.2"
   },
   "engineStrict": true,
-  "description": "Everyday Essay App",
+  "description": "Bath Manufacturer app",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
