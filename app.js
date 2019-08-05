@@ -1,3 +1,4 @@
+var PORT = process.env.PORT || 3000;
 var express = require('express');
 var request = require('request');
 var ejs = require('ejs');
@@ -104,6 +105,6 @@ main().catch(console.error);
 
 
 
-app.listen(3000,(req,res) => {
+app.listen(PORT,(req,res) => {
 	console.log('App on 3000');
 });
