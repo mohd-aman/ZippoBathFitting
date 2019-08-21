@@ -46,6 +46,14 @@ app.get('/our-products/bib-cock',(req,res)=>{
   res.render('bib-cock');
 });
 
+app.get('/our-products/long-body',(req,res)=>{
+  res.render('long-body');
+});
+
+app.get('/our-products/canshield',(req,res)=>{
+  res.render('canshield');
+});
+
 app.get('/our-products/wall-mixer',(req,res)=>{
   res.render('wall-mixer');
 });
