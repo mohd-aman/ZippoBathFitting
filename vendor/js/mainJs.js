@@ -55,6 +55,9 @@ function validateForm() {
       }
 
 }
+
+
+
 var t = window.location.href.indexOf('send');
 console.log(t);
 if(t!=-1){
